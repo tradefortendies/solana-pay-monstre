@@ -2,7 +2,7 @@
 
 Monstre enables seamless onboarding onto the Web3.0 economy through Solana Pay
 - https://solana-pay-monstre.vercel.app/ (Crypto Cash Point site)
-- [Presentation Link](https://drive.google.com/file/d/1T9uRHl4mVcUs2ujFvOSJ3imObFZt1-k5/view?usp=sharing)
+- [Presentation Link](https://drive.google.com/file/d/14OZMpSa8GWtoIYzCZMC04CU5aR7pc78V/view?usp=sharing)
 - [Video Demo](https://youtu.be/A0t6wUPfmsQ)
 - [Testing Instructions](https://docs.google.com/document/d/1AQquCekLbyQ_PC2lsWNgqC2C5yTfu9sL7oqVkI5pP60/edit?usp=sharing)
 
