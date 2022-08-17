@@ -26,5 +26,5 @@ This is the flow of a user obtaining SPL-Tokens (can be custom SPL-Tokens or Sta
 npm install
 npm run dev
 ```
-Full demo instructions here (https://docs.google.com/)
+Full demo instructions here (https://docs.google.com/document/d/1AQquCekLbyQ_PC2lsWNgqC2C5yTfu9sL7oqVkI5pP60/edit?usp=sharing)
 Download a mobile non-custodial wallet like Glow or Phantom to test it out. Ensure you have WL tokens to complete the transaction. Scan QR code at checkout to receive tokens into your wallet. 
