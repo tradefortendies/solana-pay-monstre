@@ -1,10 +1,10 @@
 ### MONSTRÉ (@longeye_monstre)
 
 Monstre enables seamless onboarding onto the Web3.0 economy through Solana Pay
-- https://solana-pay-monstre.vercel.app/ (crypto cash point site)
-- [Presentation Link](https://docs.google.com/)
+- https://solana-pay-monstre.vercel.app/ (Crypto Cash Point site)
+- [Presentation Link](https://www.canva.com/design/DAFJLC05__A/BfxC4UVGo9USA9KpTpw8cg/view?utm_content=DAFJLC05__A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - [Video Demo](https://www.youtube.com/)
-- [Testing Instructions](https://docs.google.com/)
+- [Testing Instructions](https://docs.google.com/document/d/1AQquCekLbyQ_PC2lsWNgqC2C5yTfu9sL7oqVkI5pP60/edit?usp=sharing)
 
 ### Project Description
 Monstre enables easy onboarding onto the Web3.0 economy through Solana Pay. One would not need to have any knowledge about Solana, or know that the backend is Solana to participate. This enables frictionless onboarding, ensuring the underbanked can also participate in Web3 on Solana. 
