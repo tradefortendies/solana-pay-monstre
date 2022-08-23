@@ -4,7 +4,7 @@ Monstre enables seamless onboarding onto the Web3.0 economy through Solana Pay
 - https://solana-pay-monstre.vercel.app/ (Crypto Cash Point site)
 - [Presentation Link](https://drive.google.com/file/d/14OZMpSa8GWtoIYzCZMC04CU5aR7pc78V/view?usp=sharing)
 - [Video Demo](https://youtu.be/A0t6wUPfmsQ)
-- [Testing Instructions](https://docs.google.com/document/d/1AQquCekLbyQ_PC2lsWNgqC2C5yTfu9sL7oqVkI5pP60/edit?usp=sharing)
+- [Testing Instructions](https://drive.google.com/file/d/146xtylmj_osc-UL_rcJi0v3Afmi3ZWZp/view?usp=sharing)
 
 ### Project Description
 Monstre enables easy onboarding onto the Web3.0 economy through Solana Pay. One would not need to have any knowledge about Solana, or know that the backend is Solana to participate. This enables frictionless onboarding, ensuring the underbanked can also participate in Web3 on Solana. 
@@ -26,5 +26,5 @@ This is the flow of a user obtaining SPL-Tokens (can be custom SPL-Tokens or Sta
 npm install
 npm run dev
 ```
-Full demo instructions here (https://docs.google.com/document/d/1AQquCekLbyQ_PC2lsWNgqC2C5yTfu9sL7oqVkI5pP60/edit?usp=sharing)
+Full demo instructions here (https://drive.google.com/file/d/146xtylmj_osc-UL_rcJi0v3Afmi3ZWZp/view?usp=sharing)
 Download a mobile non-custodial wallet like Glow or Phantom to test it out. Ensure you have WL tokens to complete the transaction. Scan QR code at checkout to receive tokens into your wallet. 
